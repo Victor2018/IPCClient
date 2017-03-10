@@ -1,5 +1,4 @@
-# IPCServer
-
+# IPCClient
 
 ## License
 
