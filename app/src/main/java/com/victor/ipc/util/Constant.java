@@ -27,5 +27,8 @@ public class Constant {
 
     public static class Action {
         public static final int LIVE_ACTION                     = 1;
+        public static final int LOGIN                            = 2;
+        public static final int REGIST                           = 3;
+        public static final int CHAT                              = 4;
     }
 }
